@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    text-align: center;
+}
+
+.page {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.header, .footer {
+    background-color: blue;
+    height: 10vh;
+}
+
+.middle-row {
+    height: 100vh;
+}
+
+.sidebar {
+    width: 20vw;
+    background-color: yellow;
+}

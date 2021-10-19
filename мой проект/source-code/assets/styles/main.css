@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+    /* box-sizing: border-box; */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 78%;
+}
+
+.page, .container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.horizontal-flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+header {
+    margin: 50px 0;
+}
+
+.header-site-navigation {
+    margin: auto;
+    width: 100%;
+}
+
+
+.menu-item{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.menu-item-link, .city-choice-wrapper{
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.menu-item-link, .submenu-item-link{
+    font-size: 33px;
+    font-weight: 500;
+}
+
+.header-site-navigation  ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.city-choice-wrapper{
+    text-align: center;
+    width: 400px;
+}
+.city-choice-menu-triangle {
+    float: right;
+    margin-top: 10px;
+}
+
+.submenu {
+    display: none;
+}
+
+/* CONTENT */
+
+.content-section {
+    background-color: rgba(225, 225, 225, 0.986);
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.content-section-header{
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+    font-size: 21px;
+    padding: 42px 0;
+}
+
+#target-audience img{
+    width: 250px;
+}
+
+.widget {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+.widget-heading {
+    font-size: 25px;
+}
+
+#target-audience .widget {
+    width: 260px;
+    height: 600px;
+}
+
+.widget-flex-container {
+    display: flex;
+    flex-direction: column;
+    height: inherit;
+}
+
+#widget1 .widget-image, #widget3 .widget-image, #widget2 .widget-description, #widget4 .widget-description {
+    margin-top: auto;
+}
+
+.study-image img {
+    width: 400px;
+}
+
+.partner-company-about{
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    font-size: 20px;
+}
+
+.partner-logo{
+    width: 600px;
+    margin: 0 15px;
+}
+
+.partner-logo img{
+    width: inherit;
+}
+
