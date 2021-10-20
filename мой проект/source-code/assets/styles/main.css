@@ -21,7 +21,7 @@ body {
 .horizontal-flex-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 
@@ -36,16 +36,17 @@ header {
 
 
 .menu-item{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin: 5px;
     display: flex;
     align-items: center;
+    background-color: black;
+    flex-grow: 1;
 }
 
 .menu-item-link, .city-choice-wrapper{
     padding: 10px 20px;
     color: rgb(255, 255, 255);
-    background-color: black;
+    margin: auto;
 }
 
 .menu-item-link, .submenu-item-link{
@@ -95,11 +96,11 @@ a {
 }
 
 .widget {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin: 5px;
     text-align: center;
     padding: 30px;
     background-color: rgb(255, 255, 255);
+    flex: 1;
 }
 
 .widget-heading {
