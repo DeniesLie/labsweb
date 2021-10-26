@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Validate form</title>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Form validation example</h3>
+        <form id="sign-up-form" onsubmit="return try_validate(this)">
+            <label for="email">Email: *</label><br> <div class="warning-box" id="email-warning"></div>
+            <input class="required" type="text" id="email" name="email"><br>
+
+            <label for="pswrd">Password: *</label><br> <div class="warning-box" id="pswrd-warning"></div>
+            <input class="required" type="password" id="pswrd" name="pswrd"><br>
+
+            <label for="confirm-pswrd">Confirm password: *</label><br> <div class="warning-box" id="confirm-pswrd-warning"></div>
+            <input class="required" type="password" id="confirm-pswrd" name="confirm-pswrd"><br>
+
+            <label for="birth">Birth date: *</label><br> <div class="warning-box" id="birth-warning"></div>
+            <input class="required date-type" type="text" id="birth" name="birth"><br>
+
+            <label for="height">Your height(m): *</label><br> <div class="warning-box" id="height-warning"></div>
+            <input class="required float-type" type="text" id="height" name="height"><br>
+
+            <label for="weight">Your weight(kg): *</label><br> <div class="warning-box" id="weight-warning"></div>
+            <input class="required float-type" type="text" id="weight" name="weight"><br>
+
+            <label for="attend">How often can you attend trainings per week?: </label><br> <div class="warning-box" id="attend-warning"></div>
+            <input class="int-type" type="text" id="attend" name="attend"><br>
+
+            <input type="submit">
+            <input type="reset">
+        </form>
+    </div>
+
+    <script src="assets/form-validation.js"></script>
+</body>
+</html>

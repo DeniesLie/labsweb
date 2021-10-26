@@ -1,0 +1,32 @@
+* {
+    font-size: 20px;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+}
+
+.form-container {
+    margin: auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    min-height: 500px;
+    justify-content: space-between;
+}
+
+h2 {
+    font-size: 30px;
+} 
+
+.warning-box {
+    color: red;
+}
+label {
+    font-size: 18px;
+    font-weight: bold;
+}
