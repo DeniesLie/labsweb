@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Lab5 Liienko</title>
+
+    <link rel="stylesheet" href="assets/styles/main.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+
+    <script src="assets/js/tabs.js"></script>
+    <script src="assets/js/datepicker.js"></script>
+    <script src="assets/js/weather.js"></script>
+    <script src="assets/js/slider.js"></script>
+</head>
+<body>
+    <div class="widget">
+        <h2 class="widget-heading">3.2 - Datepicker</h2>
+        <div class="widget-container">
+            <p>Datepicker: <input type="text" id="datepicker"></p>
+        </div>
+    </div>
+
+    <div class="widget">
+        <h2 class="widget-heading">3.5 Tabs - організація вкладок на сторінці.</h2>
+        <div class="widget-container">
+            <div class="tabs">
+                <ul class=tabs-list>
+                    <li><a href="#tab-1" class="tab-link">Tab1</a></li>
+                    <li><a href="#tab-2" class="tab-link">Tab2</a></li>
+                    <li><a href="#tab-3" class="tab-link">Tab3</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-window" id="tab-1"><p>About Tab-1</p></div>
+                    <div class="tab-window" id="tab-2"><p>About Tab-2</p></div>
+                    <div class="tab-window" id="tab-3"><p>About Tab-3</p></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="widget">
+        <h2 class="widget-heading">5.1 Інформер погоди</h2>
+        <div class="widget-container">
+            <div class="widget" id="weather-widget">
+                <h2> <span id="weather-widget-country">Country</span>: <span id="weather-widget-city">City</span> </h2>
+                <p><span id="weathertype">-</span></p>
+                <p>Temperature: <span id="temperature">-</span>°C</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="widget" id="slider-widget">
+        <h2 class="widget-heading">Слайдер</h2>
+        <div class="widget-container">
+            <p>Value: <span id="slider-value"></span></p>
+            <div id="slider"></div>
+            <p id="show-slider-value">click here to watch value</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -55,10 +55,18 @@ function validate_float(input, isValidated)
 function validate_date(input, isValidated)
 {
     value =input.value;
-    if(value.length !== 10 || (val[2] !== "." || val[5] !== ".") || !(isInt(value.slice(0,2)) && isInt(value.slice(3, 5)) && isInt(value.slice(5)))){
+
+    if(value.length !== 10 || (value[2] !== "." || value[5] !== ".") || !(isInt(value.slice(0,2)) && isInt(value.slice(3, 5)) && isInt(value.slice(5)))){
         isValidated.status = false;
         validation_warning(input, "Field must contain date in format 'DD.MM.YYYY'");
     }
+
+    if(value.length === 10 && (value[2] === "." || value[5] === ".") && (parseInt(value.slice(0,2) > 31 || parseInt(value.slice(0,2)) > 12))) {
+        isValidated.status = false;
+        validation_warning(input, "Field must contain date in format 'DD.MM.YYYY'");
+    }
+
+
 }
 
 function validate_password(pswrd, isValidated)
