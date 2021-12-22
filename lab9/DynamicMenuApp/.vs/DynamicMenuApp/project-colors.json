@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03fa032d-2bbd-40e9-a305-92b5df4ab2ba": {
+      "ProjectGuid": "03fa032d-2bbd-40e9-a305-92b5df4ab2ba",
+      "DisplayName": "DynamicMenu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
