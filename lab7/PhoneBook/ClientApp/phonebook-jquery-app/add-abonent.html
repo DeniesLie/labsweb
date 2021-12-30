@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Abonent</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/assets/js/show-geo-info.js"></script>
+</head>
+<body class="container-xl">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link" aria-current="page" href="index.html">Шукати абонентів</a>
+              <a class="nav-link" href="add-abonent.html">Додати абонента</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    
+    <h1>Форма додавання абонента</h1>
+
+    <form action="" id="registration-form">
+
+      <div class="row">
+        <div class="col">
+          <label for="inputFirstName">Ім'я</label>
+          <input type="text" class="form-control" id="inputFirstName" placeholder="">
+        </div>
+        <div class="col">
+          <label for="inputPatronymic">По батькові</label>
+          <input type="text" class="form-control" id="inputPatronymic" placeholder="">
+        </div>
+        <div class="col">
+          <label for="inputLastName">Прізвище</label>
+          <input type="text" class="form-control" id="inputLastName" placeholder="">
+        </div>
+      </div>
+
+      <div class="row">
+          <div class="col">
+            <label for="inputAdress">Адреса</label>
+            <input type="text" class="form-control" id="inputAdress" placeholder="">
+          </div>
+          <div class="col">
+            <label for="selectRegion">Область</label>
+            <select class="form-control" id="selectRegion"></select>
+          </div>
+          <div class="col">
+            <label for="selectCity">Місто</label>
+            <select class="form-control" id="selectCity"></select>
+          </div>
+      </div>
+
+      <label for="inputPhone col-3">Телефон</label>
+      <input type="tel" class="form-control" id="inputPhone" placeholder="+380001112222">
+
+      <button class="btn btn-success mt-3" type="submit"><span id="checkResult">✅</span> Додати</button>
+    </form>
+
+    <script>
+      $('#checkResult').hide();
+      renderRegionSelect('#selectRegion');
+      $('#selectRegion').on('click', function(){
+        renderCitySelect('#selectCity', this.value)
+      })
+
+      $('#registration-form').on('submit', function(event){
+        event.preventDefault();
+        var newAbonent = { 
+          'fullName': $('#inputFirstName').val()+' '+$('#inputPatronymic').val()+' '+$('#inputLastName').val(),
+          'adress': $('#inputAdress').val(),
+          'cityIndex': $('#selectCity :selected').attr('idAttr'),
+          'phoneNumbers': [
+            {'number': $('#inputPhone').val().replace('+','')}
+          ]
+        };
+
+        $.ajax({
+          type: 'post',
+          url: 'https://localhost:5001/api/abonents/addAbonent',
+          data: JSON.stringify(newAbonent),
+          contentType: 'application/json',
+          success: function(){
+            $('#checkResult').show()
+          },
+        });
+      });
+    </script>
+</body>
+</html>

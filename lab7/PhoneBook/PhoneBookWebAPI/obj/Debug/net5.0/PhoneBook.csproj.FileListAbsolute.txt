@@ -1,0 +1,308 @@
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/appsettings.json
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.exe
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.deps.json
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.runtimeconfig.json
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.runtimeconfig.dev.json
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/ref/PhoneBook.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.pdb
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.csproj.AssemblyReference.cache
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.AssemblyInfoInputs.cache
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.AssemblyInfo.cs
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.csproj.CoreCompileInputs.cache
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.Manifest.cache
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.xml
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/scopedcss/bundle/PhoneBook.styles.css
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.RazorTargetAssemblyInfo.cache
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.csproj.CopyComplete
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/ref/PhoneBook.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.pdb
+C:/Users/User/source/repos/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Humanizer.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/User/source/repos/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/appsettings.Development.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/appsettings.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.deps.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.runtimeconfig.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.runtimeconfig.dev.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/ref/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/PhoneBook.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Humanizer.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Newtonsoft.Json.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Runtime.Caching.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.csproj.AssemblyReference.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.AssemblyInfoInputs.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.AssemblyInfo.cs
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.csproj.CoreCompileInputs.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cs
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.Manifest.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.xml
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/scopedcss/bundle/PhoneBook.styles.css
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.RazorTargetAssemblyInfo.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.csproj.CopyComplete
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/ref/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBook/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.csproj.AssemblyReference.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.AssemblyInfoInputs.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.AssemblyInfo.cs
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.csproj.CoreCompileInputs.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cs
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/ref/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/appsettings.Development.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/appsettings.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.deps.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.runtimeconfig.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.runtimeconfig.dev.json
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/ref/PhoneBook.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Humanizer.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.Manifest.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.xml
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/scopedcss/bundle/PhoneBook.styles.css
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.RazorTargetAssemblyInfo.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.csproj.CopyComplete
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/media/den_lie/New Volume/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.csproj.AssemblyReference.cache
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.AssemblyInfoInputs.cache
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.AssemblyInfo.cs
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.csproj.CoreCompileInputs.cache
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cs
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.MvcApplicationPartsAssemblyInfo.cache
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/ref/PhoneBook.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.pdb
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/appsettings.Development.json
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/appsettings.json
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.deps.json
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.runtimeconfig.json
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.runtimeconfig.dev.json
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/ref/PhoneBook.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/PhoneBook.pdb
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Humanizer.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.Manifest.cache
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/staticwebassets/PhoneBook.StaticWebAssets.xml
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/scopedcss/bundle/PhoneBook.styles.css
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.RazorTargetAssemblyInfo.cache
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.csproj.CopyComplete
+/mnt/8A8633A486339025/VSProjects/PhoneBook/PhoneBookWebAPI/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\appsettings.json
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\PhoneBook.exe
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\PhoneBook.deps.json
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\PhoneBook.runtimeconfig.json
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\PhoneBook.runtimeconfig.dev.json
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\PhoneBook.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\ref\PhoneBook.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\PhoneBook.pdb
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.csproj.AssemblyReference.cache
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.AssemblyInfoInputs.cache
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.AssemblyInfo.cs
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.csproj.CoreCompileInputs.cache
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.MvcApplicationPartsAssemblyInfo.cs
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.MvcApplicationPartsAssemblyInfo.cache
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\staticwebassets\PhoneBook.StaticWebAssets.Manifest.cache
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\staticwebassets\PhoneBook.StaticWebAssets.xml
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\scopedcss\bundle\PhoneBook.styles.css
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.RazorTargetAssemblyInfo.cache
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.csproj.CopyComplete
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\ref\PhoneBook.dll
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.pdb
+D:\VSProjects\PhoneBook\PhoneBookWebAPI\obj\Debug\net5.0\PhoneBook.genruntimeconfig.cache
